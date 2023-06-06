@@ -1,3 +1,11 @@
+---
+title: Speaker
+layout:  null
+tab: true
+order: 1
+tags: example-tag
+---
+
 ## Speakers
 
 Would you like to speak on the upcoming OWASP Perth Webinar? Share your profile in the following format to
