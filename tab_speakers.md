@@ -1,6 +1,6 @@
 ## Speakers
 
-Would you like to speak on the upcoming OWASP Coimbatore Webinar? Share your profile in the following format to
+Would you like to speak on the upcoming OWASP Perth Webinar? Share your profile in the following format to
 - [Siranjevi Krishnan](mailto:siranjevi.krishnan@owasp.org) (Reg participation / Reg queries)
 
 
