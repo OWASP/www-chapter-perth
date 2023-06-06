@@ -9,6 +9,8 @@ region: Asia/Pacific
 
 
 ---
+![OWASP Perth](assets/images/logo/OWASP_Perth_Logo.png)
+
 # **Perth OWASP Chapter Leaders**
 
 ## Current Chapter Leaders
@@ -21,4 +23,4 @@ Connect me via [LinkedIn](https://www.linkedin.com/in/siranjevi-gv-2007431b9/)
 
 Connect me via [Instagram](https://www.instagram.com/siranjevigv/)
 
-1.  REDIRECT [Perth Australia](Perth_Australia "wikilink")
+<!-- [Perth Australia](Perth_Australia "wikilink") -->
