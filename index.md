@@ -14,7 +14,7 @@ postal-code:
 
 ---
 ## Welcome
-![Logo](https://owasp.org/www-chapter-coimbatore/assets/images/logo/OWASP_perth Logo.png)
+![Logo](https://owasp.org/www-chapter-coimbatore/assets/images/logo/OWASP_Perth_Logo.png)
 
 <!-- Standard Chapter Page Template
 This is an example of a Project or Chapter page.
