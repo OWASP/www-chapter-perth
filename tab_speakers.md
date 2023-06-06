@@ -3,7 +3,7 @@ title: Speaker
 layout:  null
 tab: true
 order: 1
-tags: Speaker-tag
+tags: example-tag
 ---
 
 ## Speakers
