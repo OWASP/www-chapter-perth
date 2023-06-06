@@ -2,7 +2,7 @@
 
 layout: col-sidebar
 title: OWASP Perth
-tags: example-tag
+tags: owasp-perth
 level: 0
 
 region: Asia/Pacific
