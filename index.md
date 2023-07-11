@@ -27,7 +27,7 @@ The chapter leadership board is as follows:
   
   <tr><td>Chapter Leader</td>
       <td>The central point of contact for the Chapter and responsible to the OWASP Board. Serves as Chapter Leader and Chapter board chair.</td>
-    <td><a href="mailto:siranjevi.krishnan@owasp.org">Siranjevi Krishnan</a></td></tr>
+    <td><a href="mailto:siranjevi.krishnan@owasp.org">Siranjevi Krishnan</a> <br> Balamurali Krishnaa</td></tr>
 </table>
 <!-- Standard Chapter Page Template
 This is an example of a Project or Chapter page.
