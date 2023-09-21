@@ -6,6 +6,7 @@ tags: owasp-perth
 level: 0
 
 region: Asia/Pacific
+country: Australia
 
 auto-migrated: 1
 meetup-group: OWASP-Perth
