@@ -4,16 +4,14 @@ layout: col-sidebar
 title: OWASP Perth
 tags: owasp-perth
 level: 0
-
 region: Asia/Pacific
 country: Australia
-
-auto-migrated: 1
 meetup-group: OWASP-Perth
 country: Australia
 postal-code: 
 
 ---
+
 ## Welcome
 ![Logo](assets/images/logo/OWASP_Perth_Logo.png)
 
