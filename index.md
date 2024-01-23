@@ -4,7 +4,7 @@ layout: col-sidebar
 title: OWASP Perth
 tags: owasp-perth
 level: 0
-region: Asia/Pacific
+region: Oceania
 country: Australia
 meetup-group: OWASP-Perth
 country: Australia
